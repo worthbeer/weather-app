@@ -23,3 +23,7 @@ body {
   position: absolute;
   width: 100%;
 }
+.sunLogo {
+  max-width: 15%;
+  max-height: 15%;
+}

@@ -3,3 +3,5 @@ const fetchWeather = cityName => {
   // TODO: fetch weather forecast from endpoint
   // from https://openweathermap.org/api
 };
+
+

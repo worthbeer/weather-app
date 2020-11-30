@@ -1,9 +1,14 @@
 import React from "react";
-import { ReactComponent as Logo } from "../images/sun.svg";
+import logo from '../images/sun.svg';
 import "../App.css";
+import Forecast from './Forecast';
 
 function App() {
-  return <h1>Weather</h1>;
+  return <>
+    <img src={logo} alt="Logo" className="sunLogo" />;
+    <h1>Weather</h1>
+    <Forecast />
+  </>
 }
 
 export default App;
