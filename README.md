@@ -1,18 +1,4 @@
 
-This was a very fun educational test and I thank you for the oppurtunitiy to dig in here.
-
-the only shown functionality on the page that is not totally working is the 5 day forecast,
-I am getting a response from the api, but realized that key involved with that response was
-more intricate than I could have put figured out in the time frame so I left it as is, tht said here is alot of stuff that could be done here using this as a base
-
-Also the supplied config files had to be debugged as webpack had made some breaking changes since this was put together, and there was somethign going on with the svg breaking the program which when cured led to the webpack bug
-so i had to throw some time into that to get it working, thanks
-
-Also immediately after publishing this I started getting security errors from github regarding the api key used that is for my api account.
-
-I understand there are a number of protocols needed to protect this key that would take some time to impliment but as this will not be here that long I am leaving it as is.
-
-William
 
 ------------------------------------------------
 # Technical Assessment - Javascript and React
